@@ -1,2 +1,4 @@
 # GitDemo
-This is a repository for getting knowledge about GitHub
+This is a my first Git repository
+<br>
+Author - Siddharth Kumar
